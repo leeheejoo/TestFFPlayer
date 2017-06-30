@@ -478,9 +478,6 @@ int main(int argc, char *argv[])
 	//}
 #else
 
-	// test 분기 만듬 ㅋㅋㅋ
-	// 테스트
-
 	if (argc < 2) {
 		fprintf(stderr, "Usage: player.exe <file>\n");
 		exit(1);
