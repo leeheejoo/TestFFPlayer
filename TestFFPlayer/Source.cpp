@@ -478,6 +478,8 @@ int main(int argc, char *argv[])
 	//}
 #else
 
+	//
+
 	if (argc < 2) {
 		fprintf(stderr, "Usage: player.exe <file>\n");
 		exit(1);
