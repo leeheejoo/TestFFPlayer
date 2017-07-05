@@ -478,7 +478,7 @@ int main(int argc, char *argv[])
 	//}
 #else
 
-	//
+	// 다시 테스트
 
 	if (argc < 2) {
 		fprintf(stderr, "Usage: player.exe <file>\n");
