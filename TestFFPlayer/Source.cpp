@@ -479,7 +479,7 @@ int main(int argc, char *argv[])
 #else
 
 	// 다시 테스트
-	// 테스트2
+	// 테스트3
 
 	if (argc < 2) {
 		fprintf(stderr, "Usage: player.exe <file>\n");
